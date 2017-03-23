@@ -16,6 +16,6 @@
     "prefix": "/bi ",
     "usage": "/bi something",
     "icon": "#fa fa-binoculars",
-    "redirect": "/b "
+    "redirect": "/bi "
   }
 }
